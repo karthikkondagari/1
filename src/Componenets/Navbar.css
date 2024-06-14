@@ -1,0 +1,28 @@
+/* Navbar.css */
+
+.navbar-brand {
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-family: 'Arial', sans-serif;
+}
+
+.nav-link.active {
+  font-weight: bold;
+}
+
+.dropdown-menu {
+  font-family: 'Arial', sans-serif;
+}
+
+.profile-icon {
+  margin-right: 5px; /* Adjust spacing between icon and username */
+}
+
+.username {
+  font-weight: bold;
+}
+
+/* Add any additional custom styles here */
