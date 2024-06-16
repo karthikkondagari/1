@@ -18,7 +18,7 @@ function NavigationBar() {
     const fetchUsername = async () => {
       try {
         const response = await fetch(
-          "http://localhost/5000/api/auth/getUser",
+          "http://localhost:5000/api/auth/getUser",
           {
             method: "POST",
             headers: {
